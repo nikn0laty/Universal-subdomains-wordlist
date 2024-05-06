@@ -1,5 +1,5 @@
 # Universal-subdomains-wordlist
-A universal dictionary for enumerating subdomains, which consists of the following dictionaries:
+A universal wordlist for enumerating subdomains, which consists of the following dictionaries:
 
 1. bitquark-subdomains-top100000.txt
 2. subdomains-top1million-110000.txt
