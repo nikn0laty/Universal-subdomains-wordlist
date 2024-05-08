@@ -11,3 +11,4 @@ A universal wordlist for enumerating subdomains, which consists of the following
 
 - Size less than 5 MB
 - Made primarily for CTF
+- Only unique values are left
